@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    margin:0;
+    background: linear-gradient(30deg,rgb(255,127,00),rgb(255,203,154));
+    font-family: 'Poppins', sans-serif;
+}
+
+.texto-saludo {
+    padding:6em;
+}
+
+.texto-saludo-hola {
+    padding:0.5em;
+    font-size:5em;
+    color: -webkit-linear-gradient(rgb(255, 182, 113),rgb(255, 144, 33));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.texto-saludo-bienvenido {
+    padding:0.5em;    
+    font-size:4em;
+}
